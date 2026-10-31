@@ -45,3 +45,5 @@ app.use((req, res) => {
         console.log('404 not found')
     });
 });
+
+export default app;
